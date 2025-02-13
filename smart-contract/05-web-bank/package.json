@@ -1,0 +1,15 @@
+{
+  "name": "05-web-bank",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "serve": "live-server src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
